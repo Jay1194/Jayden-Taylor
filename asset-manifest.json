@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Minimalist-React-Portfolio/static/css/main.fb1f7f31.css",
-    "main.js": "/Minimalist-React-Portfolio/static/js/main.c152476c.js",
+    "main.js": "/Minimalist-React-Portfolio/static/js/main.0a6b83a4.js",
     "static/js/453.47fe2500.chunk.js": "/Minimalist-React-Portfolio/static/js/453.47fe2500.chunk.js",
     "index.html": "/Minimalist-React-Portfolio/index.html",
     "main.fb1f7f31.css.map": "/Minimalist-React-Portfolio/static/css/main.fb1f7f31.css.map",
-    "main.c152476c.js.map": "/Minimalist-React-Portfolio/static/js/main.c152476c.js.map",
+    "main.0a6b83a4.js.map": "/Minimalist-React-Portfolio/static/js/main.0a6b83a4.js.map",
     "453.47fe2500.chunk.js.map": "/Minimalist-React-Portfolio/static/js/453.47fe2500.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1f7f31.css",
-    "static/js/main.c152476c.js"
+    "static/js/main.0a6b83a4.js"
   ]
 }
