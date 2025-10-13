@@ -1,9 +1,11 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import Header from './components/Header';
 import LinksContainer from './components/LinksContainer';
 import ProjectsContainer from './components/ProjectsContainer';
 import Footer from './components/Footer';
+import { HashRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
+
+
 import AskMe from './components/AskMe';
 import BucketList from './components/BucketList';
 import './App.css';
